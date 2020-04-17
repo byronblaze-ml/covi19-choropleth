@@ -1,2 +1,2 @@
 # covid19-choropleth
-A world map showing the global spread of the Coronavirus.
+A choropleth world map showing the global spread of the Coronavirus till April 16th, 2020.
